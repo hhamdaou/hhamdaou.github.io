@@ -17,12 +17,12 @@
 <img src="./style/image/minecercle.gif" height="200" width="200" class="center">
 <h1><a href="https://jpellis.me">Hassane Hamdaoui</a></h1>
 
-<center><h2>PhD Student</h2></center>
+<center><h2>Contact me</h2></center>
 
  <ul class="social">
 <li><a class="github" href="https://github.com/hhamdaou" target="_blank"><i>Github</i></a></li>
 <li><a class="email" href="/cdn-cgi/l/email-protection#93f9fce0fbd3f9e3f6fffffae0bdfef6" target="_blank"><i>Email</i></a></li>
-<li><a class="linkedin" href="https://au.linkedin.com/in/joshuapellis" target="_blank"><i>LinkedIn</i></a></li>
+<li><a class="linkedin" href="https://www.linkedin.com/in/hassanehamdaoui/" target="_blank"><i>LinkedIn</i></a></li>
 </ul>
 
 </div>
@@ -46,13 +46,13 @@
 <div id="menubar">
         <ul id="menu">
           <!-- put class="selected" in the li tag for the selected page - to highlight which page you're on -->
-          <li class="selected"><a href="index.html">Home</a></li>
+         <!-- <li class="selected"><a href="index.html">Home</a></li>
           <li><a href="Latex.html">LaTeX</a></li>
           <li><a href="Python.html">Python</a></li>
           <li><a href="ROOT.html">ROOT</a></li>
           <li><a href="Geant4.html">Geant4</a></li>
           <li><a href="Particles.html">Particles Physics</a></li>
-          <li><a href="Detectores.html">Detectores Physics</a></li>
+          <li><a href="Detectores.html">Detectores Physics</a></li> -->
         </ul>
       </div>
       </div>
