@@ -57,23 +57,29 @@ $_POST["insert your message here"]. "From: an@email.address");
                 </div>
             </div>
 
+  <form action=”mailto:contact@yourdomain.com”
+
+
+method=”POST”
+
+
+enctype=”multipart/form-data”
+
+
+name=”EmailForm”>
+
+
+Name:<br>
+
+
+<input type=”text” size=”19″ name=”ContactName”><br><br>
+
+
+Message:<br> <textarea name=”ContactCommentt” rows=”6″ cols=”20″>
+
+
+</textarea><br><br> <input type=”submit” value=”Submit”> </form>
+<?php include 'contactform.php';?>
+
   <!DOCTYPE html>
-<html>
-  <head>
-    <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
-    <script
-      src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap&libraries=&v=weekly"
-      defer
-    ></script>
-    <link rel="stylesheet" type="text/css" href="./style.css" />
-    <script src="./index.js"></script>
-  </head>
-  <body>
-    <div id="map"></div>
-  </body>
-</html>
-  </div>
-
-</div>
-
 </html>
