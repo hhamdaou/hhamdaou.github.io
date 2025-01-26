@@ -10,7 +10,6 @@ related_publications: true
 
 ATLAS is a general-purpose particle physics experiment at the Large Hadron Collider (LHC) at CERN. It is designed to exploit the full discovery potential of the LHC, pushing the frontiers of scientific knowledge. ATLAS' exploration uses precision measurement to push the frontiers of knowledge by seeking answers to fundamental questions such as: What are the basic building blocks of matter? What are the fundamental forces of nature? What is dark matter made of?
 
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/lbyl.png" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -33,4 +32,3 @@ ATLAS is a general-purpose particle physics experiment at the Large Hadron Colli
 <div class="caption">
     ATLAS Detector Schematic.
 </div>
-

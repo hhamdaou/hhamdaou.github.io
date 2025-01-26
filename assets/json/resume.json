@@ -34,10 +34,7 @@
       "startDate": "2024-02-01",
       "endDate": "",
       "summary": "Leading efforts in data analysis and software development for research projects.",
-      "highlights": [
-        "Using LHC data from ATLAS for exotic particle searches.",
-        "Developing a web application with ReactJS and PostgreSQL."
-      ]
+      "highlights": ["Using LHC data from ATLAS for exotic particle searches.", "Developing a web application with ReactJS and PostgreSQL."]
     },
     {
       "name": "Stony Brook University",
@@ -56,10 +53,7 @@
       "startDate": "2016-11-01",
       "endDate": "2021-06-01",
       "summary": "Designed and implemented large-scale data pipelines using ATLAS datasets.",
-      "highlights": [
-        "Developed statistical models for signal extraction.",
-        "Utilized machine learning for particle recognition."
-      ]
+      "highlights": ["Developed statistical models for signal extraction.", "Utilized machine learning for particle recognition."]
     }
   ],
   "education": [
