@@ -17,7 +17,7 @@ ninja.data = [{
             window.location.href = "/publications/";
           },
         },{id: "nav-projects",
-          title: "Projects",
+          title: "projects",
           description: "Experiments I worked on.",
           section: "Navigation",
           handler: () => {
@@ -75,18 +75,11 @@ ninja.data = [{
           window.open("mailto:%68%61%6D%64%61%6F%75%69%68%61%73%73%61%6E%65@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
-        id: 'social-github',
-        title: 'GitHub',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/hhamdaou", "_blank");
-        },
-      },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://inspirehep.net/authors/1605527", "_blank");
+          window.open("https://www.linkedin.com/in/hassanehamdaoui", "_blank");
         },
       },{
         id: 'social-orcid',
@@ -96,11 +89,32 @@ ninja.data = [{
           window.open("https://orcid.org/0000-0001-5709-2100", "_blank");
         },
       },{
+        id: 'social-researchgate',
+        title: 'ResearchGate',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.researchgate.net/profile/H-Hamdaoui/", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=6VCp4sAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-inspire',
+        title: 'Inspire HEP',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://inspirehep.net/authors/1605527", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/hhamdaou", "_blank");
         },
       },{
       id: 'light-theme',
