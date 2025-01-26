@@ -1,0 +1,48 @@
+<ul class="card-text font-weight-light list-group list-group-flush">
+  {% assign conferences = data[1] %}
+  {% for conference in conferences %}
+    <li class="list-group-item">
+      <div class="row">
+        <!-- Dates and Location Column -->
+        <div class="col-xs-3 col-sm-3 col-md-3 text-center date-column">
+          {% if conference.dates %}
+            <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px;">
+              {{ conference.dates }}
+            </span>
+          {% endif %}
+          {% if conference.location %}
+            <p class="location mt-2 mb-0">
+              <i class="fa-solid fa-location-dot iconlocation"></i>
+              {{ conference.location }}
+            </p>
+          {% endif %}
+          {% if conference.institute %}
+            <p class="institute mb-0">
+              <i class="fa-solid fa-building"></i>
+              {{ conference.institute }}
+            </p>
+          {% endif %}
+        </div>
+
+        <!-- Event Details Column -->
+        <div class="col-xs-9 col-sm-9 col-md-9 mt-2 mt-md-0">
+          {% if conference.role %}
+            <h6><i class="fa-solid fa-user-tag"></i> {{ conference.role }}</h6>
+          {% endif %}
+          {% if conference.event %}
+            <h6 class="font-weight-bold">
+              <i class="fa-solid fa-calendar-check"></i>
+              <a href="{{ conference.url }}" target="_blank">{{ conference.event }}</a>
+            </h6>
+          {% endif %}
+          {% if conference.title %}
+            <h6 style="font-style: italic;">{{ conference.title }}</h6>
+          {% endif %}
+          {% if conference.description %}
+            <p class="text-muted">{{ conference.description }}</p>
+          {% endif %}
+        </div>
+      </div>
+    </li>
+  {% endfor %}
+</ul>
