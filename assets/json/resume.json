@@ -38,7 +38,7 @@
       "startDate": "2024-02-01",
       "endDate": "",
       "summary": "Leading efforts in data analysis and software development for research projects.",
-      "highlights": ["Using LHC data from ATLAS for exotic particle searches.", "Developing a web application with ReactJS and PostgreSQL."]
+      "highlights": ["Using LHC data collected by ATLAS experiment for search for exotic particles using data driven background estimation.", "Developing and optimizing a web application to query run data from multiple databases, process relevant information, and store it in a dedicated PostgreSQL database on the back end, with ReactJS powering the front-end operations.","Collaborating with cross-functional teams in the field of data-driven analysis, physics and software."]
     },
     {
       "name": "Stony Brook University",
