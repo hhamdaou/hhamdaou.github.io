@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Hassane Hamdaoui",
-    "label": "Physisit, Data Scientist",
+    "label": "Physicist, Data Scientist",
     "image": "",
     "email": "hamdaouihassane@gmail.com",
     "phone": "(+46) 734796613",
@@ -12,24 +12,28 @@
       "postalCode": "",
       "city": "Uppsala",
       "countryCode": "SE",
-      "region": "Uppsala County"
+      "region": "Uppsala County",
+      "icon": "fas fa-map-marker-alt"
     },
     "profiles": [
       {
         "network": "GitHub",
         "username": "hhamdaou",
-        "url": "https://github.com/hhamdaou"
+        "url": "https://github.com/hhamdaou",
+        "icon": "fab fa-github"
       },
       {
         "network": "LinkedIn",
         "username": "hassanehamdaoui",
-        "url": "https://www.linkedin.com/in/hassanehamdaoui"
+        "url": "https://www.linkedin.com/in/hassanehamdaoui",
+        "icon": "fab fa-linkedin"
       }
     ]
   },
   "work": [
     {
       "name": "Uppsala University",
+      "icon": "fas fa-university",
       "position": "Postdoctoral Associate",
       "startDate": "2024-02-01",
       "endDate": "",
@@ -38,6 +42,7 @@
     },
     {
       "name": "Stony Brook University",
+      "icon": "fas fa-university",
       "position": "Postdoctoral Associate",
       "startDate": "2021-11-01",
       "endDate": "2023-11-01",
@@ -49,6 +54,7 @@
     },
     {
       "name": "Mohammed V University",
+      "icon": "fas fa-graduation-cap",
       "position": "Doctorate in High Energy Physics",
       "startDate": "2016-11-01",
       "endDate": "2021-06-01",
@@ -65,7 +71,8 @@
       "startDate": "2016-11-01",
       "endDate": "2021-06-01",
       "score": "",
-      "courses": ["Observation of light-by-light scattering at the LHC"]
+      "icon": "fas fa-graduation-cap",
+      "courses": ["Observation of light-by-light scattering in heavy-ion collisions with the ATLAS detector at the LHC"]
     },
     {
       "institution": "Mohammed I University",
@@ -75,6 +82,7 @@
       "startDate": "2014-11-01",
       "endDate": "2016-06-01",
       "score": "",
+      "icon": "fas fa-graduation-cap",
       "courses": ["Python programming", "Data analysis"]
     },
     {
@@ -84,48 +92,58 @@
       "studyType": "Bachelor of Science",
       "startDate": "2011-11-01",
       "endDate": "2014-06-01",
-      "score": ""
+      "score": "",
+      "icon": "fas fa-graduation-cap"
     }
   ],
   "skills": [
     {
       "name": "Programming",
+      "icon": "fas fa-code",
       "keywords": ["Python", "C/C++", "SQL", "JavaScript", "MATLAB", "Shell Scripting"]
     },
     {
       "name": "Tools & Frameworks",
+      "icon": "fas fa-tools",
       "keywords": ["Git", "Docker", "ReactJS", "Flask", "pandas", "scikit-learn", "Django"]
     },
     {
       "name": "Data Science",
+      "icon": "fas fa-database",
       "keywords": ["Machine Learning", "Statistical Modeling", "High-Performance Computing"]
     }
   ],
   "languages": [
     {
       "language": "English",
-      "fluency": "Fluent"
+      "fluency": "Fluent",
+      "icon": "fas fa-language"
     },
     {
       "language": "French",
-      "fluency": "Fluent"
+      "fluency": "Fluent",
+      "icon": "fas fa-language"
     },
     {
       "language": "Arabic",
-      "fluency": "Native Speaker"
+      "fluency": "Native Speaker",
+      "icon": "fas fa-language"
     }
   ],
   "interests": [
     {
       "name": "Sports",
+      "icon": "fas fa-futbol",
       "keywords": ["Football", "Hiking", "Camping", "Skiing"]
     },
     {
       "name": "Arts",
+      "icon": "fas fa-palette",
       "keywords": ["Photography", "Cinema"]
     },
     {
       "name": "Miscellaneous",
+      "icon": "fas fa-compass",
       "keywords": ["Traveling", "Reading"]
     }
   ]
