@@ -7,14 +7,7 @@
     "phone": "(+46) 734796613",
     "url": "https://hhamdaou.github.io",
     "summary": "PhD in Physics with expertise in advanced data analysis, statistical modeling, and machine learning. Experienced in handling large datasets and optimizing web applications.",
-    "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Uppsala",
-      "countryCode": "SE",
-      "region": "Uppsala County",
-      "icon": "fas fa-map-marker-alt"
-    },
+    "location": "Uppsala, Sweden",
     "profiles": [
       {
         "network": "GitHub",
