@@ -117,6 +117,13 @@ ninja.data = [{
           window.open("https://github.com/hhamdaou", "_blank");
         },
       },{
+        id: 'social-gitlab',
+        title: 'GitLab',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://gitlab.cern.ch/hahamdao", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
