@@ -116,40 +116,6 @@
       "keywords": ["Machine Learning", "Statistical Modeling", "High-Performance Computing"]
     }
   ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": "fas fa-language"
-    },
-    {
-      "language": "French",
-      "fluency": "Fluent",
-      "icon": "fas fa-language"
-    },
-    {
-      "language": "Arabic",
-      "fluency": "Native Speaker",
-      "icon": "fas fa-language"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Sports",
-      "icon": "fas fa-futbol",
-      "keywords": ["Football", "Hiking", "Camping", "Skiing"]
-    },
-    {
-      "name": "Arts",
-      "icon": "fas fa-palette",
-      "keywords": ["Photography", "Cinema"]
-    },
-    {
-      "name": "Miscellaneous",
-      "icon": "fas fa-compass",
-      "keywords": ["Traveling", "Reading"]
-    }
-  ],
   "conferences": [
     {
       "role": "Participant",
@@ -319,6 +285,40 @@
       "location": "Marrakesh, Morocco",
       "institute": "Victor Hugo High School",
       "dates": "February 2018"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": "fas fa-language"
+    },
+    {
+      "language": "French",
+      "fluency": "Fluent",
+      "icon": "fas fa-language"
+    },
+    {
+      "language": "Arabic",
+      "fluency": "Native Speaker",
+      "icon": "fas fa-language"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sports",
+      "icon": "fas fa-futbol",
+      "keywords": ["Football", "Hiking", "Camping", "Skiing"]
+    },
+    {
+      "name": "Arts",
+      "icon": "fas fa-palette",
+      "keywords": ["Photography", "Cinema"]
+    },
+    {
+      "name": "Miscellaneous",
+      "icon": "fas fa-compass",
+      "keywords": ["Traveling", "Reading"]
     }
   ]
 }
