@@ -17,8 +17,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Postdoctoral Researcher in the Physics Department at Uppsala University. My research focuses on the ATLAS experiment, located at CERN near Geneva. ATLAS is a detector that collects the results of collisions produced by the Large Hadron Collider (LHC), the most powerful particle accelerator ever built.
+I am a Postdoctoral Researcher in the Physics Department at Uppsala University. My research focuses on the ATLAS experiment at CERN, which records the results of collisions produced by the Large Hadron Collider (LHC), the most powerful particle accelerator in the world.
 
-We are living through one of the most exciting times in the history of fundamental physics. The LHC allows us, for the first time, to explore the energy scale of the tera-electron-volt (TeV), where we expect to find new fundamental physics. This includes the possible creation of dark matter in the laboratory, the discovery of extra dimensions of space, and Supersymmetry.
+The LHC allows us to explore energies where entirely new phenomena may appear, including dark matter, extra dimensions of space, or signs of Supersymmetry. Already, we have discovered the Higgs boson, the particle that explains the origin of mass.
 
-We have already discovered a new particle—the Higgs boson—which explains the origin of mass.
+I work on searches for Vector-Like Quarks (VLQs), hypothetical heavy particles that could reveal new physics beyond the Standard Model.
+
+I also maintain the internal TOAST web application, which is used by the Trigger group to store stable beam runs and it gather useful and automatic tool as replacement for wiki page.
+
