@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Uppsala University</a>. Department of Physics and Astronomy.
+subtitle: <a href='https://www.uu.se/en/department/physics-and-astronomy'>Uppsala University Department of Physics and Astronomy</a>, .
+
 
 profile:
   align: right
