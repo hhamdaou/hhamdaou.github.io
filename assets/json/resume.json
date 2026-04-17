@@ -118,6 +118,22 @@
   ],
   "conferences": [
     {
+      "role": "Presenter",
+      "title": " Searches for vector-like fermions and leptoquarks with the ATLAS detector",
+      "event": "  Blois2026 37th Rencontres de Blois ",
+      "url": "https://blois.in2p3.fr/2026/",
+      "location": "Blois, France",
+      "dates": "10-15 May 2026"
+    },
+    {
+      "role": "Presenter",
+      "title": " Searches for Dark Matter with the ATLAS and CMS Experiments at the LHC",
+      "event": " WIN2025 Weak Interacions and Neutrinos 2025 ",
+      "url": "https://iop.eventsair.com/win-2025/",
+      "location": "Sussex, UK",
+      "dates": "9-13 June 2025"
+    },
+    {
       "role": "Participant",
       "event": "PyHEP 2022 (virtual) workshop ",
       "url": "https://indico.cern.ch/event/1150631/",
