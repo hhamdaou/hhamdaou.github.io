@@ -80,8 +80,6 @@ If you want to use a specific docker version, you can do so by changing `latest`
 `al-folio` supports [Development Containers](https://containers.dev/supporting).
 For example, when you open the repository with Visual Studio Code (VSCode), it prompts you to install the necessary extension and automatically install everything necessary.
 
-
-
 ```bash
 $ bundle install
 # assuming pip is your Python package manager
